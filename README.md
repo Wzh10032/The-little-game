@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://wzh10032.github.io/The-little-game/"><img src="https://github.com/arcxingye/EatKano/raw/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://wzh10032.github.io/The-little-game/"><img src="https://pic.imgdb.cn/item/61efabaf2ab3f51d9159e92c.png" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
-# EatKano
+# 逃出禁闭室
 
 _🦌 网页小游戏 🥛_
 
